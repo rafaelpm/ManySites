@@ -1,0 +1,15 @@
+{
+  "name": "manysites",
+  "version": "1.0.0",
+  "description": "This is a script written on Node JS that enable use of many sites on the same server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rafael P Monteiro <rafael.p.monteiro@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "http-proxy": "^1.18.1"
+  }
+}

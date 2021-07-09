@@ -1,0 +1,6 @@
+# That is a example of hosts edited 
+# You can found this file on path: C:\Windows\System32\drivers\etc\hosts
+
+127.0.0.1 mysite1
+127.0.0.1 mysite2
+127.0.0.1 mysite3
